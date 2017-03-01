@@ -1,0 +1,21 @@
+Input file format:
+*Each input file contains 1 test case.
+
+*Each test case consists of multiple lines.
+
+*The first line contains 1 integer 'n', the number of points, 2<=n<=1000000.
+
+*Follows n lines, each line represents 1 point in the cartesian plane.
+
+*Each line contains the coordinates of the point as two integers 'x' and 'y', -1000000000<=x,y<=1000000000.
+
+Output file format:
+*Each output file contains the output of 1 test case.
+
+*The output file contains only one floating point number,
+the distance between the closest pair of points in the test case.
+
+Note:
+*You will not be provided with the output files of the secret input test cases, they will be shown in the lab.
+
+*This is not an assignment, it is a graded lab practice, so bring the files with you.
